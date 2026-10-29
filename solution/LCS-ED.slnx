@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LCS-ED/LCS-ED.vcxproj" Id="7d8f7833-0ee5-4148-947c-914e0ab80b36" />
+</Solution>

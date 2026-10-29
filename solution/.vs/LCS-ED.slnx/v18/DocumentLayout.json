@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_SpaceOptimizedDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|solutionrelative:LCS-ED\\ED_SpaceOptimizedDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_BruteForce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|solutionrelative:LCS-ED\\ED_BruteForce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_BottomUpDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|solutionrelative:LCS-ED\\ED_BottomUpDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_BottomUpDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|solutionrelative:LCS-ED\\LCS_BottomUpDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_TopDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|solutionrelative:LCS-ED\\LCS_TopDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_SpaceOptimizedDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|solutionrelative:LCS-ED\\LCS_SpaceOptimizedDP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_BruteForce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|solutionrelative:LCS-ED\\LCS_BruteForce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_TopDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D8F7833-0EE5-4148-947C-914E0AB80B36}|LCS-ED\\LCS-ED.vcxproj|solutionrelative:LCS-ED\\ED_TopDown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LCS_BottomUpDP.cpp",
+              "DocumentMoniker": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_BottomUpDP.cpp",
+              "RelativeDocumentMoniker": "LCS-ED\\LCS_BottomUpDP.cpp",
+              "ToolTip": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_BottomUpDP.cpp",
+              "RelativeToolTip": "LCS-ED\\LCS_BottomUpDP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T01:54:28.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LCS_SpaceOptimizedDP.cpp",
+              "DocumentMoniker": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_SpaceOptimizedDP.cpp",
+              "RelativeDocumentMoniker": "LCS-ED\\LCS_SpaceOptimizedDP.cpp",
+              "ToolTip": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_SpaceOptimizedDP.cpp",
+              "RelativeToolTip": "LCS-ED\\LCS_SpaceOptimizedDP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T01:54:58.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LCS_TopDown.cpp",
+              "DocumentMoniker": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_TopDown.cpp",
+              "RelativeDocumentMoniker": "LCS-ED\\LCS_TopDown.cpp",
+              "ToolTip": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_TopDown.cpp",
+              "RelativeToolTip": "LCS-ED\\LCS_TopDown.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T01:54:11.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ED_SpaceOptimizedDP.cpp",
+              "DocumentMoniker": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_SpaceOptimizedDP.cpp",
+              "RelativeDocumentMoniker": "LCS-ED\\ED_SpaceOptimizedDP.cpp",
+              "ToolTip": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_SpaceOptimizedDP.cpp",
+              "RelativeToolTip": "LCS-ED\\ED_SpaceOptimizedDP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T01:58:41.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ED_BottomUpDP.cpp",
+              "DocumentMoniker": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_BottomUpDP.cpp",
+              "RelativeDocumentMoniker": "LCS-ED\\ED_BottomUpDP.cpp",
+              "ToolTip": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_BottomUpDP.cpp",
+              "RelativeToolTip": "LCS-ED\\ED_BottomUpDP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T01:58:27.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ED_BruteForce.cpp",
+              "DocumentMoniker": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_BruteForce.cpp",
+              "RelativeDocumentMoniker": "LCS-ED\\ED_BruteForce.cpp",
+              "ToolTip": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_BruteForce.cpp",
+              "RelativeToolTip": "LCS-ED\\ED_BruteForce.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T01:58:02.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LCS_BruteForce.cpp",
+              "DocumentMoniker": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_BruteForce.cpp",
+              "RelativeDocumentMoniker": "LCS-ED\\LCS_BruteForce.cpp",
+              "ToolTip": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\LCS_BruteForce.cpp",
+              "RelativeToolTip": "LCS-ED\\LCS_BruteForce.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T01:52:30.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ED_TopDown.cpp",
+              "DocumentMoniker": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_TopDown.cpp",
+              "RelativeDocumentMoniker": "LCS-ED\\ED_TopDown.cpp",
+              "ToolTip": "C:\\Secret\\Ph\u00E2n t\u00EDch v\u00E0 thi\u1EBFt k\u1EBF thu\u1EADt to\u00E1n\\LCS-ED\\solution\\LCS-ED\\ED_TopDown.cpp",
+              "RelativeToolTip": "LCS-ED\\ED_TopDown.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T01:58:15.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
